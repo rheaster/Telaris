@@ -1,7 +1,8 @@
 > [!info]
 > ![[Xander.png]]
->  ###### Parents
->  ```breadcrumbs
+> ###### Parents
+>  ```
+>  breadcrumbs
 > type: tree
 > fields: [parents]
 > depth: [0, 4]

@@ -1,7 +1,19 @@
-This is the readme file. Testing this at 11:04am
+# Characters
 
-Now 11:07
+#### Tide Breakers
+- Autivus Bronze
+- Samiya Bronze
+- Veera Ourania
+- Kaspar Stonespar
+- Nillie Vanilli
+- The Clockwork Mage
 
-Now 11:15
+#### Purple Stripes (Bronze Staff)
+- Archibald
+- [[Xander Alderstrike]]
+- Jastira Carzanin
 
-Command-and-sync is the way
+#### White Stripes (Health Staff)
+- Hannah Dalin
+- Brandon ?
+- Aisling

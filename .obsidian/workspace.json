@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xander Alderstrike.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Xander Alderstrike"
+              "title": "README"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xander Alderstrike.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Xander Alderstrike"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Xander Alderstrike.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Xander Alderstrike"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xander Alderstrike.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Xander Alderstrike"
+              "title": "Outline of README"
             }
           },
           {
@@ -198,12 +197,12 @@
   "active": "d3f68fb84eabe2bf",
   "lastOpenFiles": [
     "Welcome.md",
+    "README.md",
+    "intialize.md",
     "Xander Alderstrike.md",
     "Xander.png.md",
     "Xander.png",
     "Untitled.base",
-    "README.md",
-    "README.mdgit",
-    "intialize.md"
+    "README.mdgit"
   ]
 }
