@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "bd8d26a0c963bd26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a82e8a7cdd778a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xander Alderstrike.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Xander Alderstrike"
-            },
-            "group": "0273f1dbaf861483"
-          }
-        ]
-      },
-      {
         "id": "212b58cd9d24922b",
         "type": "tabs",
         "children": [
@@ -40,8 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "Xander Alderstrike"
-            },
-            "group": "0273f1dbaf861483"
+            }
           }
         ]
       }
@@ -217,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a82e8a7cdd778a4",
+  "active": "d3f68fb84eabe2bf",
   "lastOpenFiles": [
     "Welcome.md",
     "Xander Alderstrike.md",
