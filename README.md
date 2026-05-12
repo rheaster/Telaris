@@ -1,1 +1,1 @@
-"# Telaris"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:rheaster/Telaris.gitgit push -u origin main
+This is the readme file. Testing this at 11:04am
